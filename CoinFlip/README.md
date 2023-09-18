@@ -5,7 +5,7 @@ This is a coin flipping game where you need to build up your winning streak by g
 
 We write another contract called Attack that always wins in the CoinFlip contract 
 
-```
+```shell
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
